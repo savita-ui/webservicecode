@@ -1,0 +1,7 @@
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\bin\Debug\WordProcessor.dll
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\bin\Debug\WordProcessor.pdb
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\obj\Debug\WordProcessor.csprojAssemblyReference.cache
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\obj\Debug\WordProcessor.dll
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\obj\Debug\WordProcessor.pdb
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\bin\Debug\sharpPDF-SL.dll
+C:\Projects\DataMigration\DOCHTMLConverter\WordProcessor\obj\Debug\WordProcessor.csproj.CopyComplete

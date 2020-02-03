@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOCHTMLConverter", "DOCHTMLConverter\DOCHTMLConverter.csproj", "{90D20492-FD43-444E-997D-DD9ADDE54C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessor", "WordProcessor\WordProcessor.csproj", "{19C5404A-9241-42FA-B8CF-F08A314EBB01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D20492-FD43-444E-997D-DD9ADDE54C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D20492-FD43-444E-997D-DD9ADDE54C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D20492-FD43-444E-997D-DD9ADDE54C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D20492-FD43-444E-997D-DD9ADDE54C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C5404A-9241-42FA-B8CF-F08A314EBB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C5404A-9241-42FA-B8CF-F08A314EBB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C5404A-9241-42FA-B8CF-F08A314EBB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C5404A-9241-42FA-B8CF-F08A314EBB01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CC161F-1193-4ABF-B356-DDB879EDE0AD}
+	EndGlobalSection
+EndGlobal
